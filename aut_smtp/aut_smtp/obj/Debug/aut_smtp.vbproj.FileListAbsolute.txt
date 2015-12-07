@@ -1,0 +1,10 @@
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\bin\Debug\aut_smtp.exe.config
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\bin\Debug\aut_smtp.exe
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\bin\Debug\aut_smtp.pdb
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\bin\Debug\aut_smtp.xml
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.Form1.resources
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.Resources.resources
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.vbproj.GenerateResource.Cache
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.exe
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.xml
+c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.pdb
