@@ -8,3 +8,13 @@ c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debu
 c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.exe
 c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.xml
 c:\users\sepand\documents\visual studio 2013\Projects\aut_smtp\aut_smtp\obj\Debug\aut_smtp.pdb
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\bin\Debug\aut_smtp.exe.config
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\obj\Debug\aut_smtp.exe
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\obj\Debug\aut_smtp.xml
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\obj\Debug\aut_smtp.pdb
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\bin\Debug\aut_smtp.exe
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\bin\Debug\aut_smtp.pdb
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\bin\Debug\aut_smtp.xml
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\obj\Debug\aut_smtp.Form1.resources
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\obj\Debug\aut_smtp.Resources.resources
+C:\Users\sepand\Desktop\mail_sender\aut_smtp\aut_smtp\obj\Debug\aut_smtp.vbproj.GenerateResource.Cache
